@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="4dp"
+    android:orientation="vertical">
+    <TextView
+        android:layout_gravity="left"
+        android:id="@+id/other_msg_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/round_tv_blue"
+        android:padding="5dp"
+        android:layout_marginRight="80dp"
+        android:text="Manish Chatting App"
+        android:textColor="@color/text"
+        android:textSize="16sp"
+        />
+    <TextView
+        android:layout_marginLeft="80dp"
+        android:id="@+id/my_msg_tv"
+        android:layout_gravity="right"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/round_tv_green"
+        android:padding="5dp"
+        android:text="Manish Chatting App2"
+        android:textColor="@color/text"
+        android:textSize="16sp"
+        />
+</LinearLayout>
