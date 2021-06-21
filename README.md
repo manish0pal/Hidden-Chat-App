@@ -7,7 +7,7 @@ But after entring the pin the chat page open and user can start chatting, it has
 
 
 ## SS 1
-![screen shot](./ss3.jpg = 450x250)
+![screen shot](./ss3.jpg)
 
 ## SS 2
 ![screen shot](./ss2.jpg)
