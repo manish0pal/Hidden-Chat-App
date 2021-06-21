@@ -6,10 +6,11 @@ So i thought to make this application with some extra feature like calculator wh
 But after entring the pin the chat page open and user can start chatting, it has a delete button that delete the chat from both the end.
 
 
-![screen shot](./ss3.jpg)
+## SS 1
+![screen shot](./ss3.jpg = 450x250)
 
-
+## SS 2
 ![screen shot](./ss2.jpg)
 
-
+## SS 3
 ![screen shot](./ss1.jpg)
